@@ -118,5 +118,3 @@ Offline-first disaster coordination platform built on a WebRTC mesh, so alerts k
 <img src="assets/activity.svg" alt="Contribution graph" width="100%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b7fd1,100:0d1117&height=100&section=footer" width="100%" />
