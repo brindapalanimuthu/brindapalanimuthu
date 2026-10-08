@@ -64,7 +64,7 @@ Offline-first disaster coordination platform built on a WebRTC mesh, so alerts k
 <div align="center">
 
 <a href="https://github.com/brindapalanimuthu"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/brinda-palanimuthu"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:palanimuthubrinda@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -115,7 +115,7 @@ Offline-first disaster coordination platform built on a WebRTC mesh, so alerts k
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brindapalanimuthu&bg_color=0d1117&color=c9d1d9&line=8b7fd1&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="assets/activity.svg" alt="Contribution graph" width="100%" />
 
 </div>
 
