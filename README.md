@@ -1,14 +1,14 @@
 <!-- Put this file in a public repo named exactly: brindapalanimuthu/brindapalanimuthu -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8b7fd1&height=180&section=header&text=Hi%20👋,%20I'm%20Brinda&fontColor=ffffff&fontSize=38&fontAlignY=40&desc=AI%20Engineer%20in%20the%20making&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8b7fd1&height=180&section=header&text=Hi%20👋,%20I'm%20Brinda&fontColor=ffffff&fontSize=38&fontAlignY=40&desc=Machine%20Learning%20Engineer%20in%20the%20making&descAlignY=62&descSize=16" width="100%" />
 
 <div align="center">
 
-### Applied AI &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Hackathons
+### Machine Learning &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Reinforcement Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8B7FD1&center=true&vCenter=true&width=520&lines=Building+agents+that+actually+act;Training+RL+agents+with+GRPO;Shipping+real-time+safety+systems" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8B7FD1&center=true&vCenter=true&width=520&lines=Training+and+evaluating+ML+models;Building+RL+environments+with+GRPO;Turning+models+into+working+products" alt="typing" />
 
-Building intelligent systems with clean architecture and real-world impact.
+Building reliable ML systems, from data to deployment.
 
 </div>
 
@@ -16,27 +16,17 @@ Building intelligent systems with clean architecture and real-world impact.
 
 <h2 align="center">🚀 About Me</h2>
 
-Third-year **Computer Science** student at **SIET**, Coimbatore, focused on becoming an **AI engineer**.
+Third-year **Computer Science** student at **SIET**, Coimbatore, focused on becoming a **Machine Learning Engineer**.
 
-I like building applied **AI/ML** and **full-stack** systems end to end, from the model to the UI, and I spend a lot of time at off-campus hackathons turning ideas into working demos.
+I enjoy the full ML loop: preparing data, training and evaluating models, and shipping them inside real applications. I also spend a lot of time at off-campus hackathons turning ideas into working demos.
 
-Lately I've been working on:
+Lately I've been exploring:
 
-- 🤖 **Multi-agent systems** and agentic workflows
-- 🧠 **RL environments** and GRPO-trained agents
-- 📡 **Offline-first, real-time** apps (WebRTC mesh, safety alerts)
+- 🧠 **Reinforcement learning** and GRPO-trained agents
+- 📄 **RAG and retrieval** systems over real-world documents
+- 🤖 **Multi-agent** workflows and model evaluation
 
-My goal is simple: build useful AI, ship it, and grow into an engineer who creates systems that last.
-
----
-
-<h2 align="center">🛠️ Featured Projects</h2>
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**MeshAlert**](https://github.com/brindapalanimuthu/MeshAlert) | Offline-first disaster coordination over a WebRTC mesh | TypeScript · MERN · WebRTC |
-| [**SafePulse**](https://github.com/brindapalanimuthu/SafePulse) | Real-time safety monitoring and emergency alerts | Flutter · Dart |
-| [**gridWatch**](https://github.com/brindapalanimuthu/gridWatch) | Monitoring dashboard | JavaScript |
+My goal is simple: build ML that works outside the notebook, and grow into an engineer who ships systems that last.
 
 ---
 
@@ -56,9 +46,9 @@ My goal is simple: build useful AI, ship it, and grow into an engineer who creat
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,vite,nodejs,express,mongodb,supabase,flutter,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,jupyter,kaggle&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,figma,tailwind,docker,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,git,github,linux,vscode&theme=dark" />
 
 </div>
 
