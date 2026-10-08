@@ -1,11 +1,8 @@
 <!-- Put this file in a public repo named exactly: brindapalanimuthu/brindapalanimuthu -->
 <!-- Fix the repo links under Featured Works if your repo names differ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8b7fd1&height=180&section=header&text=Hi%20👋,%20I'm%20Brinda&fontColor=ffffff&fontSize=38&fontAlignY=40&desc=ML%20Developer&descAlignY=62&descSize=16" width="100%" />
-
-<!-- Upload hero.png to the root of this repo (same folder as README.md) -->
 <p align="center">
-  <img src="hero.png" alt="ML hero" width="100%" />
+  <img src="hero.png" alt="Brinda | ML Developer" width="100%" />
 </p>
 
 <div align="center">
@@ -67,7 +64,7 @@ Offline-first disaster coordination platform built on a WebRTC mesh, so alerts k
 <div align="center">
 
 <a href="https://github.com/brindapalanimuthu"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/brinda-palanimuthu"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:palanimuthubrinda@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
