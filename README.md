@@ -1,10 +1,16 @@
 <!-- Put this file in a public repo named exactly: brindapalanimuthu/brindapalanimuthu -->
+<!-- Fix the repo links under Featured Works if your repo names differ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8b7fd1&height=180&section=header&text=Hi%20👋,%20I'm%20Brinda&fontColor=ffffff&fontSize=38&fontAlignY=40&desc=Machine%20Learning%20Engineer%20in%20the%20making&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8b7fd1&height=180&section=header&text=Hi%20👋,%20I'm%20Brinda&fontColor=ffffff&fontSize=38&fontAlignY=40&desc=ML%20Developer&descAlignY=62&descSize=16" width="100%" />
+
+<!-- Upload hero.png to the root of this repo (same folder as README.md) -->
+<p align="center">
+  <img src="hero.png" alt="ML hero" width="100%" />
+</p>
 
 <div align="center">
 
-### Machine Learning &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Reinforcement Learning
+### Machine Learning &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Reinforcement Learning
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8B7FD1&center=true&vCenter=true&width=520&lines=Training+and+evaluating+ML+models;Building+RL+environments+with+GRPO;Turning+models+into+working+products" alt="typing" />
 
@@ -16,17 +22,43 @@ Building reliable ML systems, from data to deployment.
 
 <h2 align="center">🚀 About Me</h2>
 
-Third-year **Computer Science** student at **SIET**, Coimbatore, focused on becoming a **Machine Learning Engineer**.
+I'm an **ML developer** who enjoys the full ML loop: preparing data, training and evaluating models, and shipping them inside real applications. I'm also a regular at off-campus hackathons, where I turn ideas into working demos.
 
-I enjoy the full ML loop: preparing data, training and evaluating models, and shipping them inside real applications. I also spend a lot of time at off-campus hackathons turning ideas into working demos.
+🏆 **Grand Finalist**, Meta × Hugging Face × Scaler **OpenEnv AI Hackathon 2026**, selected among the top teams for my Bug Triage RL environment project.
 
-Lately I've been exploring:
+🎓 **Ambassador**, GeeksforGeeks **Girls SummerSkillUp**: represented and promoted the program as a campus ambassador.
 
-- 🧠 **Reinforcement learning** and GRPO-trained agents
-- 📄 **RAG and retrieval** systems over real-world documents
-- 🤖 **Multi-agent** workflows and model evaluation
+✍️ **Contributor**, GeeksforGeeks **Girls SummerSkillUp**: actively contributed content and technical resources to the initiative.
 
-My goal is simple: build ML that works outside the notebook, and grow into an engineer who ships systems that last.
+---
+
+<h2 align="center">⭐ Featured Works</h2>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🐞 [Bug Triage & Escalation Desk](https://github.com/brindapalanimuthu)**
+
+OpenEnv RL environment with a GRPO-trained agent for bug triage and escalation. OpenEnv Hackathon 2026 Grand Finalist.
+
+</td>
+<td width="33%" valign="top">
+
+**📄 [FilingLens](https://github.com/brindapalanimuthu)**
+
+Agentic RAG system for analyzing SEC filings (10-K, 10-Q, 8-K) with table, visual and text retrieval plus numeric verification.
+
+</td>
+<td width="33%" valign="top">
+
+**📡 [MeshAlert](https://github.com/brindapalanimuthu/MeshAlert)**
+
+Offline-first disaster coordination platform built on a WebRTC mesh, so alerts keep flowing without internet.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -35,7 +67,7 @@ My goal is simple: build ML that works outside the notebook, and grow into an en
 <div align="center">
 
 <a href="https://github.com/brindapalanimuthu"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/brinda-palanimuthu/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/brinda-palanimuthu"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:palanimuthubrinda@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -46,9 +78,22 @@ My goal is simple: build ML that works outside the notebook, and grow into an en
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,jupyter,kaggle&theme=dark" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,git,github,linux,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2" />
+<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
 
 </div>
 
